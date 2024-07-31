@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Nexis-Network/internal-doc/main/download.spline.png?token=GHSAT0AAAAAACUQN4VJVDQRR2T3TLHVF2YCZVI7WLQ" alt="Nexis Network" style="border-radius: 25px; max-width: 100%; height: auto;">
-</h1>
-
 <h1 align="center">Nexis Network</h1>
 <h3 align="center">Layer-1 blockchain built for Hyper-scalable Zero-Knowledge AI Systems</h3>
 
