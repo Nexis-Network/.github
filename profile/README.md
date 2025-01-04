@@ -43,17 +43,6 @@ Nexis Network redefines the relationship between data, AI, and society:
 - 🌍 Enable "Cognitive Mining" to solve humanity's most pressing problems.
 - 📊 Support "Sentient Data" - information packets with embedded AI for autonomous decision-making.
 
-## 🤝 Partnerships & Advisors
-
-- 🏢 **Partnerships**: Transcend Labs, Castrum Capital, Zeta Chain, Prom Network, Cryptolink, RWA Inc.
-- 🧠 **Key Advisors**: Joseph Chandler (NVIDIA), Jeff (Maven Capital), Maks (AlfaCatalyst Ventures), Tomer (Kima Network)
-- 📈 **Market Makers**: Kairon Labs, Trireme Trading
-
-## 💼 Team Experience
-
-Our team and advisors bring experience from industry leaders:
-NVIDIA, Coinbase, Kima Finance, Shriners Hospital Bioinformatics, Transcend Labs
-
 ## 🌐 Nexis Devnet (L1)
 
 ```
