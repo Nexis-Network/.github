@@ -76,7 +76,6 @@ Explorer: https://zkevm-testnet.nexscan.io
 ## 📚 Resources
 
 - [Website](https://nexis.network/)
-- [Pitch Deck](https://pitch.com/v/nexis-network-pitch-deck-april-2024-9hrsr9)
 - [Tokenomics](https://docs.google.com/spreadsheets/d/1aFyHPlX5y6zy4qx2RnTXcm5qMfupaQ7zHIv8tQ_n2XY/edit?usp=sharing)
 - [Developer Docs](https://docs.nexis.network/)
 
